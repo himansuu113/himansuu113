@@ -5,14 +5,14 @@
 
 I'm a Computer Science Engineering student specializing in Artificial Intelligence and Data Science. I'm passionate about extracting insights from data and building intelligent solutions. Currently exploring the fields of data analysis, machine learning, and visualization.
 
-### 🚀 What I'm Working On
+### What I'm Working On
 - Data analysis using **Python**, **Pandas**, and **NumPy**
 - Visualizations with **Matplotlib** and **Seaborn**
 - Machine learning with **Scikit-learn**
 - Dashboarding using **Power BI** and **Tableau**
 - Writing efficient queries in **SQL**
 
-### 🛠️ Tech Stack
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
