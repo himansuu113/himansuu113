@@ -32,10 +32,6 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansuu113&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-### 🧠 Learning Platforms
-*(Profiles coming soon)*  
-Feel free to reach out if you'd like to collaborate or discuss ideas in the data space!
-
 ### 📬 Reach Out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/himansu-sekhar-sahu-b46228365/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/himansuu113)
